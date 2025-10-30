@@ -37,7 +37,6 @@ This project demonstrates a complete BMS simulation capable of:
 
 ## 📁 Project Structure
 Automotive-BMS-Simulation/
-
 ├── Simulink_Models/
 │ ├── Basic_BMS_SOC.slx # Core SOC estimation
 │ ├── Advanced_BMS_With_Noise.slx # Sensor realism added
