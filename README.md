@@ -47,6 +47,7 @@ Automotive-BMS-Simulation/
         └── Dynamic_Load_Profile.mat
     └── 📁 screenshots/
         └── full_model.png
+        └── protection_logic.png
 ├── 📁 Documentation/
 ├── 📁 Models/
 │   └── bms.slx
