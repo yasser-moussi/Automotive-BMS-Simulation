@@ -61,14 +61,14 @@ Automotive-BMS-Simulation/
    git clone https://github.com/yasser-moussi/Automotive-BMS-Simulation.git
    cd Automotive-BMS-Simulation
 ```
-Open MATLAB and navigate to the project directory
+**Open MATLAB and navigate to the project directory**
 
-Open the main Simulink model
+**Open the main Simulink model**
 matlab
 
 open_system('Models/bms.slx')
 
-Run the simulation
+**Run the simulation**
 
     Click the Run button (play icon) in Simulink
 
