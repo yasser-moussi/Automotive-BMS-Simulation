@@ -24,6 +24,8 @@ A professional MATLAB/Simulink implementation of a Battery Management System wit
 | Current Range | -1A to +2A (charge/discharge) | -2A to +2A |
 | Response Time | Real-time | < 100ms |
 
+## Model Overview
+
 ![BMS Model](Assets/screenshots/full_model.png)
 
 ## 🛠️ Technical Implementation
