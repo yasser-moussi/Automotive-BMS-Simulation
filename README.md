@@ -45,7 +45,7 @@ Automotive-BMS-Simulation/
 ├── 📁 Assets/
     ├── 📁 data/
         └── Dynamic_Load_Profile.mat
-   └── 📁 screenshots/
+    └── 📁 screenshots/
         └── full_model.png
 ├── 📁 Models/
 │   └── bms.slx
