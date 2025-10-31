@@ -65,7 +65,7 @@ Automotive-BMS-Simulation/
 ## 📞 Contact
 
 Yasser Moussi
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/yasser-moussi/)
+- LinkedIn: (https://www.linkedin.com/in/yasser-moussi/)
 - GitHub: [@yourusername](https://github.com/yasser-moussi)
 
 ## 📄 License
