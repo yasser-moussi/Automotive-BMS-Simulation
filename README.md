@@ -49,6 +49,7 @@ Automotive-BMS-Simulation/
 ├── 📁 Documentation/
 ├── 📁 Assets/
 │   └── 📁 screenshots/
+        └── full_model.png
 └── 📁 Results/ 
 ```
 
