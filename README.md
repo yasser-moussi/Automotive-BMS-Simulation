@@ -55,6 +55,7 @@ Automotive-BMS-Simulation/
 - MATLAB R2021a or newer
 - Simulink
 
+### Installation
 Open MATLAB and navigate to the project directory
 
 Open the main Simulink model
