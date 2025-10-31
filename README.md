@@ -71,6 +71,6 @@ Your Name
 - LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
 - GitHub: [@yourusername](https://github.com/yourusername)
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
