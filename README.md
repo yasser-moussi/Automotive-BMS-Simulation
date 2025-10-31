@@ -69,7 +69,7 @@ text
 
 Yasser Moussi
 - LinkedIn: [Your Profile](https://www.linkedin.com/in/yasser-moussi/)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@yourusername](https://github.com/yasser-moussi)
 
 ## 📄 License
 
