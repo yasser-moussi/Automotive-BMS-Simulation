@@ -57,7 +57,6 @@ text
 ### Prerequisites
 - MATLAB R2021a or newer
 - Simulink
-- Simscape Electrical
 
 ### Quick Start
 1. Clone the repository:
