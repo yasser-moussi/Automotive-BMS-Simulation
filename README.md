@@ -68,7 +68,7 @@ text
 ## 📞 Contact
 
 Yasser Moussi
-- LinkedIn: [Your Profile]((https://www.linkedin.com/in/yasser-moussi/))
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/yasser-moussi/)
 - GitHub: [@yourusername](https://github.com/yourusername)
 
 ## 📄 License
