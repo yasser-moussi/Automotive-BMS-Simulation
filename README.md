@@ -72,7 +72,7 @@ matlab
 
 sim('Models/bms.slx')
 
-View the results
+### View the results
 
     Monitor real-time SOC, voltage, and current on the dashboard
 
