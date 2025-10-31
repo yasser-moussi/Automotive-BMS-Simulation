@@ -70,6 +70,7 @@ matlab
 open_system('Models/BMS_Complete.slx')
 
     Run the simulation and observe the professional monitoring dashboard
+```
 
 📈 Key Results
 SOC Estimation Performance
