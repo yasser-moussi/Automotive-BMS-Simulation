@@ -45,7 +45,7 @@ Automotive-BMS-Simulation/
 ├── 📄 README.md
 ├── 📄 LICENSE
 ├── 📁 Models/
-│   └── BMS_Complete.slx
+│   └── bms.slx
 ├── 📁 Documentation/
 ├── 📁 Assets/
 │   └── 📁 screenshots/
