@@ -56,19 +56,19 @@ Automotive-BMS-Simulation/
 - Simulink
 
 ### Installation
-**Clone the repository**
+**1. Clone the repository**
    ```bash
    git clone https://github.com/yasser-moussi/Automotive-BMS-Simulation.git
    cd Automotive-BMS-Simulation
 ```
-**Open MATLAB and navigate to the project directory**
+**2. Open MATLAB and navigate to the project directory**
 
-**Open the main Simulink model**
+**3. Open the main Simulink model**
 matlab
 
 open_system('Models/bms.slx')
 
-**Run the simulation**
+**4. Run the simulation**
 
     Click the Run button (play icon) in Simulink
 
@@ -78,7 +78,7 @@ matlab
 
 sim('Models/bms.slx')
 
-### View the results
+**5. View the results**
 
 - Monitor real-time SOC, voltage, and current on the dashboard
 - Observe error analysis in the dedicated scopes
