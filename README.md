@@ -40,16 +40,14 @@ A professional MATLAB/Simulink implementation of a Battery Management System wit
 
 ## 📁 Project Structure
 
+```text
+Project Structure:
 Automotive-BMS-Simulation/
 ├── Models/
-│ ├── BMS_Complete.slx # Main simulation model
-│ ├── SOC_Estimation/ # Core algorithm implementation
-│ └── Protection_Logic/ # Safety monitoring system
-├── Documentation/
-│ ├── System_Architecture.md # Technical design overview
-│ └── Performance_Analysis.md # Error analysis results
-└── README.md
-text
+│   ├── BMS_Complete.slx
+└── Documentation/
+    └── System_Architecture.md
+```
 
 
 ## 🚦 Getting Started
