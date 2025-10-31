@@ -42,10 +42,14 @@ A professional MATLAB/Simulink implementation of a Battery Management System wit
 
 ```text
 Automotive-BMS-Simulation/
-├── Models/
-│   ├── bms.slx
-└── Documentation/
-    └── System_Architecture.md
+├── 📄 README.md
+├── 📄 LICENSE
+├── 📁 Models/
+│   └── BMS_Complete.slx
+├── 📁 Documentation/
+├── 📁 Assets/
+│   └── 📁 screenshots/
+└── 📁 Results/ 
 ```
 
 
