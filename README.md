@@ -47,13 +47,12 @@ Automotive-BMS-Simulation/
         └── Dynamic_Load_Profile.mat
     └── 📁 screenshots/
         └── full_model.png
+├── 📁 Documentation/
 ├── 📁 Models/
 │   └── bms.slx
-├── 📁 Documentation/
-
 ├── 📁 Results/
-├── 📄 README.md
-└── 📄 LICENSE
+├── 📄 LICENSE
+└── 📄 README.md
 ```
 
 
