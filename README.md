@@ -93,7 +93,7 @@ sim('Models/bms.slx')
 ## 📞 Contact
 
 Yasser Moussi
-- LinkedIn: (https://www.linkedin.com/in/yasser-moussi/)
+- LinkedIn: [Yasser Moussi] (https://www.linkedin.com/in/yasser-moussi/)
 - GitHub: [@yourusername](https://github.com/yasser-moussi)
 
 ## 📄 License
