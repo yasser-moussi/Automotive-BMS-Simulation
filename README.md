@@ -58,81 +58,18 @@ text
 - MATLAB R2021a or newer
 - Simulink
 
-### Quick Start
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/Automotive-BMS-Simulation.git
+## Key Results
 
-    Open the main model in MATLAB:
+- SOC Estimation Accuracy: 99.97%
+- Successful charge/discharge cycle handling  
+- Robust performance under sensor noise
+- Professional monitoring dashboard operation
 
-matlab
-
-open_system('Models/BMS_Complete.slx')
-
-    Run the simulation and observe the professional monitoring dashboard
-```
-
-📈 Key Results
-SOC Estimation Performance
-
-    Accuracy: 99.97% under normal operating conditions
-
-    Maximum Error: < 0.04% with sensor noise
-
-    Response: Real-time estimation updates
-
-System Validation
-
-    Successful charge/discharge cycle handling
-
-    Robust performance under sensor noise conditions
-
-    Professional monitoring dashboard operation
-
-    Comprehensive protection system functionality
-
-🎯 Automotive Applications
-
-This BMS simulation demonstrates capabilities relevant to:
-
-    Formula 1 Power Units - High-performance battery management
-
-    Mercedes-AMG Powertrains - Advanced energy management systems
-
-    Electric Vehicle Systems - Road car battery monitoring
-
-    Hybrid Powertrain Development - Energy optimization algorithms
-
-🔧 Technical Highlights
-Advanced Features
-
-    Dynamic load profile simulation (charge/discharge cycles)
-
-    Sensor realism with noise modeling
-
-    Professional error analysis and validation
-
-    Automotive-grade monitoring interface
-
-    Configurable protection thresholds
-
-Engineering Principles
-
-    First-principles battery modeling
-
-    Real-time system monitoring
-
-    Statistical error analysis
-
-    Safety-critical protection logic
-
-📞 Contact
+## 📞 Contact
 
 Your Name
-
-    🔗 LinkedIn: Your Profile
-
-    💼 GitHub: @yourusername
+- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/yourusername)
 
 📄 License
 
