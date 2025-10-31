@@ -56,6 +56,11 @@ Automotive-BMS-Simulation/
 - Simulink
 
 ### Installation
+**Clone the repository**
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/Automotive-BMS-Simulation.git
+   cd Automotive-BMS-Simulation
+```
 Open MATLAB and navigate to the project directory
 
 Open the main Simulink model
