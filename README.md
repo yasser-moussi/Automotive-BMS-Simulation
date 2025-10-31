@@ -74,11 +74,9 @@ sim('Models/bms.slx')
 
 ### View the results
 
-    Monitor real-time SOC, voltage, and current on the dashboard
-
-    Observe error analysis in the dedicated scopes
-
-    Check protection system status indicators
+- Monitor real-time SOC, voltage, and current on the dashboard
+- Observe error analysis in the dedicated scopes
+- Check protection system status indicators
 
 ## Key Results
 
