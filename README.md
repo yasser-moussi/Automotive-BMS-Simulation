@@ -67,10 +67,10 @@ Automotive-BMS-Simulation/
 ```bash
 open_system('Models/bms.slx')
 ```
-**4. Run the simulation**
 
-    Click the RUN button (play icon) in Simulink
-    Or use the MATLAB command:
+**4. Run the Simulation**
+Click the RUN button (play icon) in Simulink
+Or use the MATLAB command:
 ```bash
 sim('Models/bms.slx')
 ```
