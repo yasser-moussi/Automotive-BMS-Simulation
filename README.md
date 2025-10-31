@@ -69,14 +69,11 @@ open_system('Models/bms.slx')
 ```
 **4. Run the simulation**
 
-    Click the Run button (play icon) in Simulink
-
+    Click the RUN button (play icon) in Simulink
     Or use the MATLAB command:
-
-matlab
-
+```bash
 sim('Models/bms.slx')
-
+```
 **5. View the results**
 
 - Monitor real-time SOC, voltage, and current on the dashboard
