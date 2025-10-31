@@ -55,6 +55,31 @@ Automotive-BMS-Simulation/
 - MATLAB R2021a or newer
 - Simulink
 
+Open MATLAB and navigate to the project directory
+
+Open the main Simulink model
+matlab
+
+open_system('Models/bms.slx')
+
+Run the simulation
+
+    Click the Run button (play icon) in Simulink
+
+    Or use the MATLAB command:
+
+matlab
+
+sim('Models/bms.slx')
+
+View the results
+
+    Monitor real-time SOC, voltage, and current on the dashboard
+
+    Observe error analysis in the dedicated scopes
+
+    Check protection system status indicators
+
 ## Key Results
 
 - SOC Estimation Accuracy: 99.97%
