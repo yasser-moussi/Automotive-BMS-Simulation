@@ -78,7 +78,7 @@ sim('Models/bms.slx')
 - Observe error analysis in the dedicated scopes
 - Check protection system status indicators
 
-## Key Results
+## 🎯 Key Results
 
 - SOC Estimation Accuracy: 99.97%
 - Successful charge/discharge cycle handling  
