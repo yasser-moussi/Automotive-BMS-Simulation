@@ -64,10 +64,9 @@ Automotive-BMS-Simulation/
 **2. Open MATLAB and navigate to the project directory**
 
 **3. Open the main Simulink model**
-matlab
-
+```bash
 open_system('Models/bms.slx')
-
+```
 **4. Run the simulation**
 
     Click the Run button (play icon) in Simulink
