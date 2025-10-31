@@ -93,9 +93,5 @@ sim('Models/bms.slx')
 ## 📞 Contact
 
 Yasser Moussi
+- Email: yasser.moussi.kfz@gmail.com
 - LinkedIn: [Yasser Moussi](https://www.linkedin.com/in/yasser-moussi/)
-- GitHub: [@yourusername](https://github.com/yasser-moussi)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
