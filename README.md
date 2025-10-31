@@ -58,7 +58,7 @@ Automotive-BMS-Simulation/
 ### Installation
 **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Automotive-BMS-Simulation.git
+   git clone https://github.com/yasser-moussi/Automotive-BMS-Simulation.git
    cd Automotive-BMS-Simulation
 ```
 Open MATLAB and navigate to the project directory
