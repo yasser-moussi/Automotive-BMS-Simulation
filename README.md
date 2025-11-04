@@ -3,7 +3,7 @@
 A professional MATLAB/Simulink implementation of a Battery Management System with real-time State of Charge (SOC) estimation.
 
 ![BMS Dashboard](https://img.shields.io/badge/Simulink-R2025a-blue.svg)
-![BMS](https://img.shields.io/badge/Battery-Management_System-green.svg)
+![BMS](https://img.shields.io/badge/Battery-Management_System-red.svg)
 ![Automotive](https://img.shields.io/badge/Automotive-Engineering-orange.svg)
 
 ## 🚀 Features
