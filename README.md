@@ -4,7 +4,7 @@ A professional MATLAB/Simulink implementation of a Battery Management System wit
 
 ![BMS Dashboard](https://img.shields.io/badge/Simulink-R2025a-blue.svg)
 ![BMS](https://img.shields.io/badge/Battery-Management_System-red.svg)
-![Automotive](https://img.shields.io/badge/Automotive-Engineering-orange.svg)
+![Automotive](https://img.shields.io/badge/Automotive-Engineering-yellow.svg)
 
 ## 🚀 Features
 
