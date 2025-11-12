@@ -96,10 +96,10 @@ sim('Models/bms.slx')
 
 ## 🎯 Key Results
 
-- SOC Estimation Accuracy: 99.97%
-- Successful charge/discharge cycle handling  
-- Robust performance under sensor noise
-- Professional monitoring dashboard operation
+- **SOC Estimation Accuracy**: 99.97% error margin maintained
+- **Charge/Discharge Management**: Successful handling of both charging and discharging cycles
+- **Sensor Noise Robustness**: Reliable performance under realistic sensor noise conditions
+- **Monitoring Dashboard**: Professional operation with real-time metrics and status indicators
 
 ## 📞 Contact
 
