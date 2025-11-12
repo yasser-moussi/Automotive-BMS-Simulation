@@ -103,6 +103,6 @@ sim('Models/bms.slx')
 
 ## 📞 Contact
 
-Yasser Moussi
+**Yasser Moussi**
 - Email: yasser.moussi.kfz@gmail.com
 - LinkedIn: [Yasser Moussi](https://www.linkedin.com/in/yasser-moussi/)
